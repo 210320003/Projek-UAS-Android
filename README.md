@@ -11,15 +11,15 @@
 - Tombol Pencarian
 - Tombol Auto Scroll Up
 #
-#Tampilan Proses
+# Tampilan Proses
 ![alt text](https://github.com/210320003/Projek-UAS-Android/blob/main/tampilan%20proses%20.jpg?raw=true)
 Tampilan proses dalam pembuatan aplikasi biodata pahlawan
-#Tampilan Home
+# Tampilan Home
 ![alt text](https://github.com/210320003/Projek-UAS-Android/blob/main/tampilan%20awal%20atau%20home.jpg?raw=true)
 Tampilan menu utama aplikasi biodata pahlawan
-#Tampilan Tombol Pencarian
+# Tampilan Tombol Pencarian
 ![alt text](https://github.com/210320003/Projek-UAS-Android/blob/main/tampilan%20saat%20mencari.jpg?raw=true)
 Tampilan saat melakukan pencarian pada aplikasi biodata pahlawan
-#Tampilan Data
+# Tampilan Data
 ![alt text](https://github.com/210320003/Projek-UAS-Android/blob/main/tampilan%20saat%20menampilkan%20salah%201%20data.jpg?raw=true)
 Tampilan saat mengklik salah satu data pahlawan 
